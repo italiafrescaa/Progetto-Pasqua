@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS2001: Il file di origine '\\Mac\Home\Desktop\School\Informatic\C#\NET Framework\Esercizi\07.04.2023_Progetto_Pasqua\07.04.2023_Progetto_Pasqua\CTree.cs' non è stato trovato.
+dotnet_diagnostic.CS2001.severity = none
